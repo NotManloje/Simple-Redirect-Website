@@ -1,4 +1,4 @@
-# Simply-Redirect-Website
+# Simple-Redirect-Website
 A website that redirect users to a url or another website.
 ## Installation Process
 You can fork & get this project on your replit project by clicking on text given below
